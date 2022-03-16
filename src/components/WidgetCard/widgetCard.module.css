@@ -1,0 +1,43 @@
+.active {
+	background-color: #dddddd;
+}
+
+.card {
+	height: 100%;
+	max-width: 10rem;
+	border: 1px solid #dddddd;
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.tempWrapper {
+	width: 65%;
+	height: 25px;
+	padding: 0px 14px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.lowTemp {
+	color: #333333;
+}
+
+.highTemp {
+	color: #818181;
+}
+
+.cardHeader {
+	color: #8c8c8c;
+	margin-top: 1rem;
+	width: 100%;
+	text-align: center;
+	height: 25px;
+}
+
+.cardImage {
+	width: 120px;
+	height: 120px;
+}

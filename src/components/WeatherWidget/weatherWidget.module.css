@@ -1,0 +1,11 @@
+#weatherWidget {
+	min-width: 50rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 15rem;
+	border: 1px solid #dddddd;
+	box-sizing: border-box;
+	border-radius: 3px;
+}
